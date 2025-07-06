@@ -1,0 +1,16 @@
+# Basic Metadata configuration
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Shreyas S P'
+theme = 'hugo-bearblog'
+author = 'Shreyas S P'
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
