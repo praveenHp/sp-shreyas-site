@@ -1,5 +1,5 @@
 # Basic Metadata configuration
-baseURL = 'https://example.org/'
+baseURL = 'https://spshreyas.in'
 languageCode = 'en-us'
 title = 'Shreyas S P'
 theme = 'hugobear'
