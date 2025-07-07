@@ -2,7 +2,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Shreyas S P'
-theme = 'hugo-bearblog'
+theme = 'hugobear'
 author = 'Shreyas S P'
 
 # Generate a nice robots.txt for SEO
