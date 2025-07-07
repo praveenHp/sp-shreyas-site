@@ -1,0 +1,10 @@
++++
+date = '2017-11-08'
+title = 'DeMo anniversary'
++++
+
+Today is the first anniversary of demonetisation. 86% of the value of currency was withdrawn from circulation. Despite the chaos and inconvenience it caused, the move was initially hailed by the common people mainly because of their strong belief in Modi. Social media was filled with jubilance as people were led to believe that the move was a severe blow against black money and corruption. Any critic of DeMo was called a black money hoarder or an anti-national.
+
+But the citizens were befooled. They were innocently celebrating the biggest economic blunder of India. The worst was yet to come. Hundreds of people died standing in queues. Millions lost their jobs. The informal labour sector was severely hit. Manufacturing came to a standstill. India's GDP declined by 2%. Corruption continued rampantly as earlier. Black money got converted into white through banks (99% of demonetised currency returned to banks), which can be called the biggest scam of independent India. The circulation of black money in elections post-DeMo continued as earlier. The digital transactions which picked up in the initial months after DeMo have now reached the pre-DeMo levels. Fake notes, terrorism, and naxalism haven't seen any decline.
+
+The ripple effects of DeMo (along with GST) are continuing to weaken our economy. The hasty decision taken by Modi sabotaging the institutional independence of RBI led to a 2% decline in GDP for which we need years together to recover the lost GDP. This is the classic example of how one man's dictatorial decision can ruin the entire country. In any other developed country, the head of the government would have been thrown out of power and sent behind bars for causing such unprecedented damage. Modi single-handedly took the decision without analysing the effects of his decision on the 120 cr people and a 2 trillion dollars economy. He should and he will definitely pay the price for this in the 2019 elections.
