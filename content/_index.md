@@ -14,5 +14,3 @@ I have gained hands-on experience through internships, where I worked on electio
 Currently, I am exploring opportunities to contribute to policy-making and governance, focusing on impactful projects in elections, governance, health and economic development. I am particularly interested in public policy roles that involve research, legislative work, and program implementation.
 
 Beyond my professional interests, I engage in Vipassana meditation, strength training, and running, which help me maintain discipline and resilience.
-
-
