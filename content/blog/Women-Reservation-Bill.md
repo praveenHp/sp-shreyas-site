@@ -1,6 +1,6 @@
 +++
 date = '2023-09-21'
-title = 'Women's Reservation Bill'
+title = "Women's Reservation Bill"
 +++
 
 Throughout history, women have fought tirelessly to claim their space in politics, from fighting for the right to vote to heading governments.
