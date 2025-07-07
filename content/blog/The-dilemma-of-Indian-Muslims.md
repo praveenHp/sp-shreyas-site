@@ -1,6 +1,6 @@
 +++
-date = ‘2017-08-23’
-title = ‘The dilemma of Indian Muslims’ 
+date = '2017-08-23'
+title = 'The dilemma of Indian Muslims' 
 +++
 
 Indian Muslims are the victims of three evils:
@@ -12,7 +12,7 @@ According to the Sachar committee report, Muslims are the most backward and pove
 
 The main reasons for this backwardness are the lack of liberal leadership in the Muslim community, the lack of political will by successive governments, and the villainization of Muslims for all the wrong things happening around.
 
-Congress’s claim that they have lifted up the Muslim community is not completely true. BJP's claim that Muslims have benefited at the cost of Hindus is completely false.
+Congress's claim that they have lifted up the Muslim community is not completely true. BJP's claim that Muslims have benefited at the cost of Hindus is completely false.
 
 The community is stuck with the regressive religious leadership who are blocking all the necessary social reforms within the community. The unfortunate fact is that no major social reformers have emerged from the community to reduce the influence of regressive religious leaders.
 
