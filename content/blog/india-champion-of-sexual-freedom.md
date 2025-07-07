@@ -1,6 +1,6 @@
 +++
 date = '2015-06-28'
-title = 'India - the ancient champion of sexual freedom and its current indifference towards sexual minorities'
+title = 'India - the ancient champion of sexual freedom'
 +++
 
 India is neither liberal nor regressive when it comes to LGBT issues. Religion, lack of knowledge
