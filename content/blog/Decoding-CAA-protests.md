@@ -7,6 +7,8 @@ The ongoing protests across India have more to do with 'All-India NRC', proposed
 
 As we all know, the NRC was implemented in Assam to find out the illegal immigrants who entered India after March 24, 1971, from Bangladesh. The NRC exercise in Assam became highly controversial as the list excluded even legal Indian citizens who lived in India before the cut-off date. Officially, many Assamese people became illegal immigrants as they couldn't submit proper documents to prove their existence in India before the cutoff date. As Mahua Moitra said, in a country where ministers can't produce their degree certificates, how can you expect poor and dispossessed people to possess documents of their ancestors? 
 
+![Decoding CAA protests](/static/images/IMG_7781.jpeg)
+
 The NRC exercise in Assam has turned many legal citizens of India stateless. However, the CAA comes in as a rescue mechanism for non-Muslim immigrants from Pakistan, Bangladesh, and Afghanistan. Even if their names don't feature in the NRC list, they will get citizenship under the CAA. 
 
 However, an India-born Hindu or Muslim whose ancestors lived in India since centuries, but couldn't produce documents to prove his/her existence in India before cutoff date, will become an illegal immigrant and doesn't get any benefit under CAA. This is because CAA grants citizenship only to non-Muslim immigrants from Pakistan, Bangladesh and Afghanistan. An Indian Hindu born before cutoff date, but excluded from NRC, can never prove that s/he immigrated from these neighboring countries because s/he was never a resident of those countries. An Indian-born Muslim will be more dispossessed as CAA doesn't grant citizenship to Muslims. 
