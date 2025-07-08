@@ -5,7 +5,7 @@ title = 'Covid-19 and Geography'
 
 Is there a correlation between SARS-CoV-2 virus (that causes Covid-19) and geography? Well, the data till date suggests so. 
 
-![Covid-19 Statistics By geography](/static/images/IMG_1097.jpeg)
+![Covid-19 Statistics By geography](/static/images/covid-19-geography.jpeg)
 
 The worst affected regions from Covid-19 are in the upper latitudes of the northern hemisphere (beyond 30°N latitude), which fall under the temperate zone. Interestingly, all the countries in this region, with the exception of a few, are developed countries with robust health systems and public health expenditure.
 
