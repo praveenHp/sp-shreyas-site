@@ -1,0 +1,22 @@
+<div class="social-links">
+    {{ if .Site.Params.social.twitter }}
+      <a href="{{ .Site.Params.social.twitter }}" target="_blank" rel="noopener">
+        <i class="fab fa-x"></i>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.social.linkedin }}
+      <a href="{{ .Site.Params.social.linkedin }}" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.social.facebook }}
+      <a href="{{ .Site.Params.social.facebook }}" target="_blank" rel="noopener">
+        <i class="fab fa-facebook"></i>
+      </a>
+    {{ end }}
+    {{ if .Site.Params.social.instagram }}
+      <a href="{{ .Site.Params.social.instagram }}" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    {{ end }}
+  </div>

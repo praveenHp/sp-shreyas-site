@@ -172,4 +172,30 @@
   ul.blog-posts li a:visited {
       color: var(--visited-color);
   }
+
+  .social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.social-links a {
+  color: #333;
+  font-size: 1.5rem;
+  transition: color 0.3s ease;
+}
+
+@media (prefers-color-scheme: dark) {
+    .social-links a {
+        color: #fff;
+        font-size: 1.5rem;
+        transition: color 0.3s ease;
+    }
+  }
+
+.social-links a:hover {
+  color: #007acc;
+}
+
 </style>

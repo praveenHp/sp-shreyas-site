@@ -15,3 +15,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "/blog/:slug/"
   tags = "/tags/:slug"
+
+[params.social]
+  linkedin = "https://www.linkedin.com/in/shreyasparamesh/"
+  twitter = "https://x.com/sp_shreyas_"
+  facebook = "https://www.facebook.com/shreyas.sp.gowda"
+  instagram = "https://www.instagram.com/sp.shreyas"
