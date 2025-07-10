@@ -1,6 +1,6 @@
 +++
 date = '2024-10-02'
-title = 'Gandhi and the truth'
+title = 'Gandhi and the Truth'
 +++
 
 Truth is the fundamental element of Indian philosophy. Most of the major religions of the world stress the importance of truth.
