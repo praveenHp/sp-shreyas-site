@@ -1,7 +1,7 @@
 
 +++
 date = '2018-08-29'
-title = 'Impact of demonetisation'
+title = 'Impact of Demonetisation'
 +++
 
 Impact of demonetisation!
