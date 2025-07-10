@@ -1,6 +1,6 @@
 +++
 date = '2019-03-07'
-title = 'People under-represented in Parliament'
+title = 'Population under-represented in Parliament'
 +++
 
 In a parliamentary democracy like India where the lower house of the Parliament (Lok Sabha) elects
