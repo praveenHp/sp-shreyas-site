@@ -1,6 +1,6 @@
 +++
 date = '2023-01-30'
-title = 'Martyrdom Day'
+title = 'Gandhi and Godse'
 +++
 
 Today is the 75th death anniversary of Mahatma Gandhi. The manner of Gandhi's death was one of
