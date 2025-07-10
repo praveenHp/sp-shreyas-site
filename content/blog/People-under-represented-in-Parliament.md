@@ -11,6 +11,8 @@ a population of 6.37cr while India has 545 MPs to represent 123cr population (20
 representation differs from each state/UT largely. A Rajasthan MP represents 27.45 lakh people, a
 Goa MP represents 7.3 lakh people and a Lakshadweep MP represents 64,000 people.
 
+![Underrepresentation in Parliament](/static/images/IMG_7780.jpeg)
+
 For efficient governance, I think it is essential that each MP should represent not more than 10 lakh
 people. Some regions of the country where family planning was successful, we can have an MP
 representing not less than 5 lakh people. If we delimit the constituencies of India per 10 lakh people
