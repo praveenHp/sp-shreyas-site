@@ -198,4 +198,207 @@
   color: #007acc;
 }
 
+/* Publications Table Styles */
+.publications-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.publications-table th,
+.publications-table td {
+  padding: 1rem 1.5rem;
+  text-align: left;
+  border-bottom: 1px solid;
+}
+
+.publications-table th {
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.publications-table td {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Date column styling */
+.publications-table .date {
+  font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  width: 120px;
+}
+
+/* Publication title/link styling */
+.publications-table .publication-link {
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid transparent;
+}
+
+.publications-table .publication-link:hover {
+  border-bottom: 1px solid;
+}
+
+/* Row hover effects */
+.publications-table tbody tr {
+  transition: background-color 0.2s ease;
+}
+
+.publications-table tbody tr:hover {
+  transform: translateY(-1px);
+  transition: transform 0.2s ease;
+}
+
+/* Light theme (default) */
+.publications-table {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.publications-table th {
+  background-color: #f8f9fa;
+  color: #495057;
+  border-bottom-color: #dee2e6;
+}
+
+.publications-table td {
+  border-bottom-color: #e9ecef;
+}
+
+.publications-table .date {
+  color: #6c757d;
+}
+
+.publications-table .publication-link {
+  color: #0066cc;
+}
+
+.publications-table .publication-link:hover {
+  color: #004499;
+  border-bottom-color: #004499;
+}
+
+.publications-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  .publications-table {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  .publications-table th {
+    background-color: #2d2d2d;
+    color: #b0b0b0;
+    border-bottom-color: #404040;
+  }
+
+  .publications-table td {
+    border-bottom-color: #333333;
+  }
+
+  .publications-table .date {
+    color: #888888;
+  }
+
+  .publications-table .publication-link {
+    color: #66b3ff;
+  }
+
+  .publications-table .publication-link:hover {
+    color: #99ccff;
+    border-bottom-color: #99ccff;
+  }
+
+  .publications-table tbody tr:hover {
+    background-color: #2d2d2d;
+  }
+}
+
+/* Manual dark theme class (for sites without prefers-color-scheme) */
+.dark .publications-table {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.dark .publications-table th {
+  background-color: #2d2d2d;
+  color: #b0b0b0;
+  border-bottom-color: #404040;
+}
+
+.dark .publications-table td {
+  border-bottom-color: #333333;
+}
+
+.dark .publications-table .date {
+  color: #888888;
+}
+
+.dark .publications-table .publication-link {
+  color: #66b3ff;
+}
+
+.dark .publications-table .publication-link:hover {
+  color: #99ccff;
+  border-bottom-color: #99ccff;
+}
+
+.dark .publications-table tbody tr:hover {
+  background-color: #2d2d2d;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .publications-table {
+    font-size: 0.9rem;
+  }
+  
+  .publications-table th,
+  .publications-table td {
+    padding: 0.75rem 1rem;
+  }
+  
+  .publications-table .date {
+    font-size: 0.8rem;
+    width: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  .publications-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+/* Optional: Alternating row colors */
+.publications-table.striped tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+@media (prefers-color-scheme: dark) {
+  .publications-table.striped tbody tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.02);
+  }
+}
+
+.dark .publications-table.striped tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
 </style>
