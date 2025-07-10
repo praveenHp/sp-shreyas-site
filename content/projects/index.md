@@ -4,7 +4,7 @@ draft = false
 title = 'Projects & Publications'
 +++
 
-<table class="publications-table">
+<div class="publications-table">
 
 | Date          | Publication   | 
 | ------------- | ------------- | 
@@ -13,4 +13,4 @@ title = 'Projects & Publications'
 | Feb 4, 2019   | [Gauging the Electoral Mood in Haryana](https://www.cppr.in/centre-for-comparative-studies/gauging-the-electoral-mood-in-haryana)|
 | April 17, 2019 | [Leadership Vacuum in Dravidian Politics — Will New Players Make an Impact?](https://www.cppr.in/articles/leadership-vacuum-in-dravidian-politics-will-new-players-make-an-impact)|
 
-</table>
+</div>
