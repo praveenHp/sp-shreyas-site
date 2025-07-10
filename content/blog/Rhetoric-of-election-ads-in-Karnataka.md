@@ -5,7 +5,11 @@ title = 'Rhetoric of election ads in Karnataka'
 
 The Congress's newspaper ad against BJP focused on inflation, devolution of taxes, and Modi government’s indifference towards Karnataka.
 
+![Congress ad](/static/images/bjp-campaign-1.jpeg)
+
 The BJP's newspaper ad against Congress focused on Muslims, Naxals, cow slaughter, and Cauvery water. 7 out of 9 points mentioned in the ad were directly or indirectly related to Muslims. There was nothing related to development and people's welfare.
+
+![BJP ad](/static/images/IMG_1099.jpeg)
 
 It is no surprise that the entire ecosystem of the BJP exists on the plank of Muslims and fear-mongering. Hypothetically speaking, if Muslims stopped existing from tomorrow, the BJP would crumble and die down in a short span of time. 
 
