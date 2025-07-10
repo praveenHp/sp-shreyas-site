@@ -1,6 +1,6 @@
 +++
 date = '2018-06-21'
-title = 'Declining GDP and job growth'
+title = 'Declining GDP and Job growth'
 +++
 
 BJP inherited a recovering economy, which was growing upwards at 6.9% in 2013-14 (based on the new GDP calculation method). The current growth rate is 6.7% (2017-18), which is lower than what they inherited. They promised to create one crore jobs each year. The government has stopped releasing official job numbers as job growth is negative. Instead of creating jobs, the government has destroyed millions of jobs through faulty policies like demonetisation. 150 million people were lifted out of poverty in the last decade. But millions have been pushed to poverty now.
