@@ -365,24 +365,47 @@
 @media (max-width: 768px) {
   .publications-table {
     font-size: 0.9rem;
+    table-layout: fixed;
+    width: 100%;
   }
   
   .publications-table th,
   .publications-table td {
-    padding: 0.75rem 1rem;
+    padding: 0.75rem 0.5rem;
   }
   
   .publications-table .date {
     font-size: 0.8rem;
-    width: 100px;
+    width: 90px;
+  }
+  
+  .publications-table .publication-link {
+    display: block;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
   }
 }
 
 @media (max-width: 480px) {
   .publications-table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
+    table-layout: fixed;
+    width: 100%;
+  }
+  
+  .publications-table th,
+  .publications-table td {
+    padding: 0.5rem 0.25rem;
+  }
+  
+  .publications-table .date {
+    width: 80px;
+    font-size: 0.75rem;
+  }
+  
+  .publications-table .publication-link {
+    font-size: 0.9rem;
+    line-height: 1.3;
   }
 }
 
