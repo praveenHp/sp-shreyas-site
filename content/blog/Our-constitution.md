@@ -1,6 +1,6 @@
 +++
 date = '2023-01-26'
-title = 'Republic Day 2023 - Constitution of India'
+title = 'Our Constitution'
 +++
 
 As of 2023, the constitution of India governs about one-sixth of humanity (1.4 bn), equivalent to
