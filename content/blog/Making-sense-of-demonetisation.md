@@ -1,6 +1,6 @@
 +++
 date = '2016-11-11'
-title = 'Making sense of demonetisation'
+title = 'Making sense of Demonetisation'
 +++
 
 Our nominal GDP is Rs.151.91 lakh crore. As of March 2016, the total money circulation in India is worth Rs.16.42 lakh crore. Out of this, the value of all Rs. 500 and Rs.1000 denominations is Rs.14.18 lakh crore. That is, 86% of Rs.16.42 lakh crore is either Rs.500 or Rs.1000. By demonetizing Rs.500 and Rs.1000 notes, the government has demonetised the money worth Rs.14.18 lakh crore. The reasons given by the government are to curb FICN (Fake Indian Currency Notes) and eradicate black money. 
