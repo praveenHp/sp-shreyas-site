@@ -9,6 +9,8 @@ Every 27 seconds, someone somewhere in the world is diagnosed with blood cancer.
 
 Stem cell donation involves the collection of blood-forming cells from a healthy donor and transplanting them to a person who is suffering from blood cancer or certain blood disorders. Most of the donation happens through the apheresis method, similar to platelet donation.
 
+![Stem Cell Donation](/static/images/lifesaver.jpeg)
+
 Anyone in the age range of 18 to 55 is eligible to register as a stem cell donor.
 A few medical guidelines are:
 • Should be in generally good health.
