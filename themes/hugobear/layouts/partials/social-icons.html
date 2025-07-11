@@ -19,4 +19,9 @@
         <i class="fab fa-instagram"></i>
       </a>
     {{ end }}
+    {{ if .Site.Params.social.email }}
+      <a href="mailto:{{ .Site.Params.social.email }}" target="_blank" rel="noopener">
+        <i class="fa-solid fa-envelope"></i>
+      </a>
+    {{ end }}
   </div>

@@ -21,6 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   twitter = "https://x.com/sp_shreyas_"
   facebook = "https://www.facebook.com/shreyas.sp.gowda"
   instagram = "https://www.instagram.com/sp.shreyas"
+  email = "shreyas.paramesh@gmail.com"
 
 [markup.goldmark.renderer]
 unsafe= true
