@@ -49,3 +49,17 @@ philosophy of social democracy and women empowerment.
 Through this platform, I hope to connect with like-minded changemakers, contribute to
 meaningful conversations, and remain committed to serving the public interest with clarity,
 compassion, and courage.
+
+### Featured blogs
+I have penned my thoughts as [blogs](blogs). And some of the notable ones are mentioned below:
+* [Freedom at midnight](blogs/Freedom-At-Midnight)
+* [Vipassana meditation- A transformative journey](blogs/Vipassana-A-transformative-journey)
+* [The distinction of Mahatma](blogs/The-distinction-of-Mahatma)
+* [Women’s Reservation Bill](blogs/Women-Reservation-Bill)
+* [Gruhalakshmi of Karnataka](blogs/Gruhalakshmi-of-Karnataka)
+* [The Ethics of Science](blogs/the-ethics-of-science)
+* [Our Constitution](blogs/Our-constitution)
+* [Making of the Indian Republic](blogs/Making-of-the-Indian-Republic)
+* [Reservation in Education Sector](blogs/Reservation-in-Education-Sector)
+* [Making sense of demonetisation](blogs/Making-sense-of-demonetisation)
+* [Indian Foreign Policy](blogs/Indian-Foreign-Policy)
