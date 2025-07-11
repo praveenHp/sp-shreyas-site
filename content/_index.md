@@ -5,7 +5,19 @@
 title = "Shreyas S P"
 +++
 
-Hello, I’m Shreyas. I’m an engineer by degree and a public policy explorer by conviction. After
+<div class="profile-pic-wrapper">
+{{< figure
+  src="static/images/shreyas.jpeg"
+  alt="A photograph of Shreyas S P"
+  class="profile-pic"
+>}}
+</div>
+
+Hello, 
+
+I’m Shreyas. 
+
+I’m an engineer by degree and a public policy explorer by conviction. After
 years of dedicated civil services preparation, I decided to pivot towards policy analysis and
 political research.
 
@@ -21,6 +33,10 @@ during the 2019 Lok Sabha election.
 
 To gain a deeper understanding of policy making, I completed a course titled ‘Graduate
 Certificate in Public Policy’ at Takshashila Institute in Bangalore.
+
+Alongside my academic and professional journey, I’ve actively shared commentary on political
+and social issues through Instagram and Facebook, helping demystify governance for everyday
+citizens.
 
 In my personal life, I’m a practitioner of **Vipassana meditation**, a student of **India’s political
 history**, and an advocate for **physical and mental discipline** through strength training, running,
