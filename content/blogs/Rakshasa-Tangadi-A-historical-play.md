@@ -3,7 +3,7 @@ date = ‘2025-10-13’
 title = ‘Rakshasa Tangadi - A historical play’ 
 +++
 
-![Rakshasa Tangadi](/static/images/WhatsApp Image 2025-10-22 at 21.07.24.jpeg)
+![Rakshasa Tangadi](/static/images/Rakshasa-Tangadi.jpeg)
 
 Rakshasa Tangadi, a play by Girish Karnad, narrates the events of the Battle of Talikota, a pivotal conflict between the Vijayanagara Empire and a coalition of four Deccan Sultans that ultimately led to the downfall of the Vijayanagara Empire.
 
