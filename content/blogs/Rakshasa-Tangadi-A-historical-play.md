@@ -1,6 +1,6 @@
 +++
-date = ‘2025-10-13’
-title = ‘Rakshasa Tangadi - A historical play’ 
+date = '2025-10-13'
+title = 'Rakshasa Tangadi - A historical play'
 +++
 
 ![Rakshasa Tangadi](/static/images/Rakshasa-Tangadi.jpeg)
