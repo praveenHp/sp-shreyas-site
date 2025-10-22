@@ -63,3 +63,4 @@ I have penned my thoughts as [blogs](blogs). And some of the notable ones are me
 * [Reservation in Education Sector](blogs/Reservation-in-Education-Sector)
 * [Making sense of demonetisation](blogs/Making-sense-of-demonetisation)
 * [Indian Foreign Policy](blogs/Indian-Foreign-Policy)
+* [Rakshasa Tangadi - A historical play](blogs/Rakshasa-Tangadi-A-historical-play)
