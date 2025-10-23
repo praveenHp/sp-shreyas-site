@@ -52,6 +52,7 @@ compassion, and courage.
 
 ### Featured blogs
 I have penned my thoughts as [blogs](blogs). And some of the notable ones are mentioned below:
+* [Rakshasa Tangadi - A historical play](blogs/Rakshasa-Tangadi-A-historical-play)
 * [Freedom at midnight](blogs/Freedom-At-Midnight)
 * [Vipassana meditation- A transformative journey](blogs/Vipassana-A-transformative-journey)
 * [The distinction of Mahatma](blogs/The-distinction-of-Mahatma)
@@ -63,4 +64,3 @@ I have penned my thoughts as [blogs](blogs). And some of the notable ones are me
 * [Reservation in Education Sector](blogs/Reservation-in-Education-Sector)
 * [Making sense of demonetisation](blogs/Making-sense-of-demonetisation)
 * [Indian Foreign Policy](blogs/Indian-Foreign-Policy)
-* [Rakshasa Tangadi - A historical play](blogs/Rakshasa-Tangadi-A-historical-play)
