@@ -97,7 +97,6 @@ on foot.
 
 Throughout the intervening years, he has also endured what Congress leaders and independent
 researchers have long alleged is a coordinated trolling and propaganda campaign linked to the
-researchers have long alleged is a coordinated trolling and propaganda campaign linked to the
 BJP’s social media ecosystem. The “Pappu” mockery campaign stands out as its most visible
 manifestation, a dynamic first documented publicly in journalist Swati Chaturvedi’s 2016 book on
 the party’s digital operations. Regardless of one’s assessment of his politics, Gandhi remained a
