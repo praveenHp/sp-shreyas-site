@@ -130,5 +130,4 @@ as their concerns never truly went away.
 That’s why watching Gen Z do this so publicly and successfully is significant. As one protester
 put it, walking through Jantar Mantar with a copy of the Constitution in hand: “a win for the
 constitution.” Millennials lit the match a decade ago without knowing what it would become. Gen
-constitution.” Millennials lit the match a decade ago without knowing what it would become. Gen
 Z has proven that the fire hasn’t gone out.
